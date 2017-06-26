@@ -12,7 +12,6 @@ Basic Feature List:
 * OpenWeatherMap.org API
 * NPM body-parser
 	
-This is the howto guide from *-Brandon Morelli-* located 
-[here](https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b)
+This is the [how to guide](https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b) by Brandon Morelli
 
 
